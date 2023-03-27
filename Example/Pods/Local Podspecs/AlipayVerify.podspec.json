@@ -1,0 +1,22 @@
+{
+  "name": "AlipayVerify",
+  "version": "0.1.0",
+  "summary": "A short description of AlipayVerify.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zongang/AlipayVerify",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zongang": "zongang15@yahoo.com"
+  },
+  "source": {
+    "git": "https://github.com/zongang/AlipayVerify.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "AlipayVerify/Classes/**/*"
+}

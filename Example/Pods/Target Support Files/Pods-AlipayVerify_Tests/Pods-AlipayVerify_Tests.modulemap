@@ -1,0 +1,6 @@
+framework module Pods_AlipayVerify_Tests {
+  umbrella header "Pods-AlipayVerify_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

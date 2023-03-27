@@ -1,0 +1,27 @@
+PODS:
+  - AlipayVerify (0.1.0)
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+
+DEPENDENCIES:
+  - AlipayVerify (from `../`)
+  - FBSnapshotTestCase
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  AlipayVerify:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AlipayVerify: b46aeb8192e9548e95229d31ab69209544e8b5ac
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+
+PODFILE CHECKSUM: 42c88c7a66c761e20ed038215f08911368826de5
+
+COCOAPODS: 1.11.3
